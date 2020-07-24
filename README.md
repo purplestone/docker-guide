@@ -28,7 +28,7 @@
 显示所有存储
 
 * ```docker run --rm -v /var/run/docker.sock:/var/run/docker.sock assaflavie/runlike ContainerName``` <br />
-显示容器 run 时的参数
+显示容器参数转成 run 的参数
 
 
 
